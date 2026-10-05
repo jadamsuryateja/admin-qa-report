@@ -1,0 +1,685 @@
+{
+  "date": "2026-10-05",
+  "site": "https://www.yourbusiness.live/admin",
+  "method": "Read-only browser QA; no records created, updated, or deleted",
+  "responsive": [
+    {
+      "path": "/admin",
+      "client": 375,
+      "errors": null,
+      "heading": "Dashboard",
+      "scroll": 375,
+      "tableContainers": [],
+      "width": 390
+    },
+    {
+      "path": "/admin/categories",
+      "client": 375,
+      "errors": null,
+      "heading": "Categories",
+      "scroll": 375,
+      "tableContainers": [],
+      "width": 390
+    },
+    {
+      "path": "/admin/products",
+      "client": 375,
+      "errors": null,
+      "heading": "Products",
+      "scroll": 375,
+      "tableContainers": [],
+      "width": 390
+    },
+    {
+      "path": "/admin/products/new",
+      "client": 375,
+      "errors": null,
+      "heading": "Add product",
+      "scroll": 375,
+      "tableContainers": [],
+      "width": 390
+    },
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "client": 375,
+      "errors": null,
+      "heading": "Edit product",
+      "scroll": 375,
+      "tableContainers": [],
+      "width": 390
+    },
+    {
+      "path": "/admin/orders",
+      "client": 390,
+      "errors": null,
+      "heading": "Orders",
+      "scroll": 390,
+      "tableContainers": [
+        {
+          "client": 356,
+          "overflow": "auto",
+          "scroll": 640
+        }
+      ],
+      "width": 390
+    },
+    {
+      "path": "/admin/contact",
+      "client": 390,
+      "errors": null,
+      "heading": "Contact responses",
+      "scroll": 390,
+      "tableContainers": [
+        {
+          "client": 356,
+          "overflow": "auto",
+          "scroll": 640
+        }
+      ],
+      "width": 390
+    },
+    {
+      "path": "/admin/coupons",
+      "client": 375,
+      "errors": null,
+      "heading": "Coupons",
+      "scroll": 375,
+      "tableContainers": [
+        {
+          "client": 341,
+          "overflow": "auto",
+          "scroll": 720
+        }
+      ],
+      "width": 390
+    },
+    {
+      "path": "/admin",
+      "client": 768,
+      "errors": null,
+      "heading": "Dashboard",
+      "scroll": 768,
+      "tableContainers": [],
+      "width": 768
+    },
+    {
+      "path": "/admin/categories",
+      "client": 768,
+      "errors": null,
+      "heading": "Categories",
+      "scroll": 768,
+      "tableContainers": [],
+      "width": 768
+    },
+    {
+      "path": "/admin/products",
+      "client": 753,
+      "errors": null,
+      "heading": "Products",
+      "scroll": 753,
+      "tableContainers": [],
+      "width": 768
+    },
+    {
+      "path": "/admin/products/new",
+      "client": 753,
+      "errors": null,
+      "heading": "Add product",
+      "scroll": 753,
+      "tableContainers": [],
+      "width": 768
+    },
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "client": 753,
+      "errors": null,
+      "heading": "Edit product",
+      "scroll": 753,
+      "tableContainers": [],
+      "width": 768
+    },
+    {
+      "path": "/admin/orders",
+      "client": 768,
+      "errors": null,
+      "heading": "Orders",
+      "scroll": 768,
+      "tableContainers": [
+        {
+          "client": 718,
+          "overflow": "auto",
+          "scroll": 718
+        }
+      ],
+      "width": 768
+    },
+    {
+      "path": "/admin/contact",
+      "client": 768,
+      "errors": null,
+      "heading": "Contact responses",
+      "scroll": 768,
+      "tableContainers": [
+        {
+          "client": 718,
+          "overflow": "auto",
+          "scroll": 718
+        }
+      ],
+      "width": 768
+    },
+    {
+      "path": "/admin/coupons",
+      "client": 753,
+      "errors": null,
+      "heading": "Coupons",
+      "scroll": 753,
+      "tableContainers": [
+        {
+          "client": 703,
+          "overflow": "auto",
+          "scroll": 720
+        }
+      ],
+      "width": 768
+    },
+    {
+      "path": "/admin",
+      "client": 1440,
+      "errors": null,
+      "heading": "Dashboard",
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "path": "/admin/categories",
+      "client": 1440,
+      "errors": null,
+      "heading": "Categories",
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "path": "/admin/products",
+      "client": 1425,
+      "errors": null,
+      "heading": "Products",
+      "scroll": 1425,
+      "width": 1440
+    },
+    {
+      "path": "/admin/products/new",
+      "client": 1425,
+      "errors": null,
+      "heading": "Add product",
+      "scroll": 1425,
+      "width": 1440
+    },
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "client": 1425,
+      "errors": null,
+      "heading": "Edit product",
+      "scroll": 1425,
+      "width": 1440
+    },
+    {
+      "path": "/admin/orders",
+      "client": 1440,
+      "errors": null,
+      "heading": "Orders",
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "path": "/admin/contact",
+      "client": 1440,
+      "errors": null,
+      "heading": "Contact responses",
+      "scroll": 1440,
+      "width": 1440
+    },
+    {
+      "path": "/admin/coupons",
+      "client": 1425,
+      "errors": null,
+      "heading": "Coupons",
+      "scroll": 1425,
+      "width": 1440
+    },
+    {
+      "path": "/admin",
+      "client": 305,
+      "errors": null,
+      "heading": "Dashboard",
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "path": "/admin/categories",
+      "client": 305,
+      "errors": null,
+      "heading": "Categories",
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "path": "/admin/products",
+      "client": 305,
+      "errors": null,
+      "heading": "Products",
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "path": "/admin/products/new",
+      "client": 305,
+      "errors": null,
+      "heading": "Add product",
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "client": 305,
+      "errors": null,
+      "heading": "Edit product",
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "path": "/admin/orders",
+      "client": 320,
+      "errors": null,
+      "heading": "Orders",
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "path": "/admin/contact",
+      "client": 320,
+      "errors": null,
+      "heading": "Contact responses",
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "path": "/admin/coupons",
+      "client": 305,
+      "errors": null,
+      "heading": "Coupons",
+      "scroll": 305,
+      "width": 320
+    }
+  ],
+  "products": [
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Kheema Pickle",
+      "variants": [
+        "2499",
+        "1249",
+        "718"
+      ]
+    },
+    {
+      "path": "/admin/products/6949fe90-0f76-4c9f-8c4e-2c4c301950dd",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Pickle",
+      "variants": [
+        "1899",
+        "949",
+        "545"
+      ]
+    },
+    {
+      "path": "/admin/products/a345bdd3-1f9e-45b1-87fd-d242a05721d3",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Boneless Pickle",
+      "variants": [
+        "2499",
+        "1249",
+        "718"
+      ]
+    },
+    {
+      "path": "/admin/products/9ecdaa3f-b032-4ac0-9bd3-edc5428cccd1",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Boti Pickle",
+      "variants": [
+        "1699",
+        "849",
+        "488"
+      ]
+    },
+    {
+      "path": "/admin/products/9c1eb8f2-5e09-4f14-a371-536f79787da1",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Naatukodi Pickle (Spicy)",
+      "variants": [
+        "2200",
+        "1100",
+        "632"
+      ]
+    },
+    {
+      "path": "/admin/products/49beb87f-f6b6-4729-bac4-26fa691fa723",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Chicken Pickle (Spicy)",
+      "variants": [
+        "1699",
+        "849",
+        "488"
+      ]
+    },
+    {
+      "path": "/admin/products/434361e2-9e31-4153-a116-89af70e26d16",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Naatukodi Pickle",
+      "variants": [
+        "1999",
+        "999",
+        "574"
+      ]
+    },
+    {
+      "path": "/admin/products/f1e7c2cb-72cd-4f86-b6d4-341c2af9bf7f",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Gongura Prawns Pickle",
+      "variants": [
+        "1799",
+        "899",
+        "517"
+      ]
+    },
+    {
+      "path": "/admin/products/b1608dc3-2ebb-4038-93c6-5192ad11e808",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Boti Pickle (Spicy)",
+      "variants": [
+        "1799",
+        "899",
+        "517"
+      ]
+    },
+    {
+      "path": "/admin/products/77647bc8-5f1f-4de2-972a-83096736a5b6",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Boti Gongura Pickle",
+      "variants": [
+        "899",
+        "1799",
+        "517"
+      ]
+    },
+    {
+      "path": "/admin/products/843741a0-00f9-4ff7-afcb-9c26c0453bff",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Prawns Pickle",
+      "variants": [
+        "849",
+        "488",
+        "1699"
+      ]
+    },
+    {
+      "path": "/admin/products/3cd44bf6-3a61-4b7d-9762-5c48471f6bf1",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Mutton Gongura Pickle",
+      "variants": [
+        "999",
+        "1999",
+        "575"
+      ]
+    },
+    {
+      "path": "/admin/products/a407ee9f-a77d-4f17-b0b2-c8d9e890c36d",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Fish Pickle (Spicy)",
+      "variants": [
+        "849",
+        "488",
+        "1699"
+      ]
+    },
+    {
+      "path": "/admin/products/956d95d6-3764-4f86-a4df-3a67d7bfbb71",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Naatukodi Boneless Pickle",
+      "variants": [
+        "3299",
+        "1999",
+        "899"
+      ]
+    },
+    {
+      "path": "/admin/products/c8f0d4d3-8165-46cf-8859-0a3dccc0311c",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Mutton Pickle (Spicy)",
+      "variants": [
+        "1999",
+        "999",
+        "517"
+      ]
+    },
+    {
+      "path": "/admin/products/e6ea6b56-7cde-4a42-accd-3b895fc656dd",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Chicken Kheema Pickle",
+      "variants": [
+        "1599",
+        "799",
+        "459"
+      ]
+    },
+    {
+      "path": "/admin/products/6df3a86f-b16e-40c7-88c1-f8028c39dcb2",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Fish Pickle - Tuna",
+      "variants": [
+        "1999",
+        "999",
+        "499"
+      ]
+    },
+    {
+      "path": "/admin/products/b79aeb28-9102-4341-b570-1f80a82f2426",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Chicken Boneless Pickle",
+      "variants": [
+        "1599",
+        "799",
+        "459"
+      ]
+    },
+    {
+      "path": "/admin/products/d8970962-fc9c-433b-a0e4-62d14f8485e7",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Chicken Pickle",
+      "variants": [
+        "1199",
+        "599",
+        "344"
+      ]
+    },
+    {
+      "path": "/admin/products/db9949ad-6198-442b-b6c6-0e15f66b3959",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Fish Pickle - Apollo",
+      "variants": [
+        "1999",
+        "999",
+        "499"
+      ]
+    },
+    {
+      "path": "/admin/products/243561c4-a7b1-4d82-af9c-87025a95a13e",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Chicken Gongura Pickle",
+      "variants": [
+        "1699",
+        "849",
+        "488"
+      ]
+    },
+    {
+      "path": "/admin/products/8c677627-f515-489d-abd0-1621c8270db7",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Fish Pickle - Koramenu",
+      "variants": [
+        "1699",
+        "849",
+        "488"
+      ]
+    },
+    {
+      "path": "/admin/products/22406dcb-537a-4081-8d09-08a866dd2dcb",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Prawns Big Pickle",
+      "variants": [
+        "1899",
+        "949",
+        "545"
+      ]
+    },
+    {
+      "path": "/admin/products/0d748d05-d5b1-418f-996a-aeb63c00878c",
+      "brokenImages": [],
+      "heading": "Edit product",
+      "name": "Telangana Special Prawns Pickle (Spicy)",
+      "variants": [
+        "1799",
+        "899",
+        "517"
+      ]
+    }
+  ],
+  "categoryEditors": [
+    [
+      "Chicken Pickles",
+      "chicken-pickles"
+    ],
+    [
+      "Fish Pickles",
+      "fish-pickles"
+    ],
+    [
+      "Mutton Pickles",
+      "mutton-pickles"
+    ],
+    [
+      "Prawn Pickles",
+      "prawn-pickles"
+    ]
+  ],
+  "couponEditors": [
+    [
+      "SAVE20",
+      "2026-03-31"
+    ],
+    [
+      "SAVE30",
+      "2026-03-30"
+    ],
+    [
+      "STAFFARC10",
+      "2026-04-30"
+    ],
+    [
+      "STAFFARC15",
+      "2026-04-13"
+    ],
+    [
+      "STAFFARC25",
+      "2026-04-13"
+    ]
+  ],
+  "filters": [
+    {
+      "filter": "Chicken Pickles",
+      "result": "Showing: 8"
+    },
+    {
+      "filter": "Fish Pickles",
+      "result": "Showing: 4"
+    },
+    {
+      "filter": "Mutton Pickles",
+      "result": "Showing: 8"
+    },
+    {
+      "filter": "Prawn Pickles",
+      "result": "Showing: 4"
+    },
+    {
+      "filter": "All",
+      "result": "Showing: 24"
+    }
+  ],
+  "loggedOutGuards": [
+    {
+      "path": "/admin",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/categories",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fcategories",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/products",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fproducts",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/products/new",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fproducts%2Fnew",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/products/d4cc2950-001e-4894-82d0-798c3b312f84",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fproducts%2Fd4cc2950-001e-4894-82d0-798c3b312f84",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/orders",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Forders",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/contact",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fcontact",
+      "signInVisible": true
+    },
+    {
+      "path": "/admin/coupons",
+      "url": "https://www.yourbusiness.live/login?next=%2Fadmin%2Fcoupons",
+      "signInVisible": true
+    }
+  ]
+}
